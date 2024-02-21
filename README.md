@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <IMG ALIGN="RIGHT" ALT="CODING" WIDTH="400" SRC="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragmondal698&label=Profile%20views&color=0e75b6&style=flat" alt="anuragmondal698" /> </p>
+<p align="RIGH"> <img src="https://komarev.com/ghpvc/?username=anuragmondal698&label=Profile%20views&color=0e75b6&style=flat" alt="anuragmondal698" /> </p>
 
 - 📫 How to reach me **anuragmondal698@gmail.com**
 
